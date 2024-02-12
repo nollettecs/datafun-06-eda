@@ -24,3 +24,19 @@
     - Pyarrow
     - Matplotlib
     - Seaborn
+
+# Data Description
+- GitHub URL ``https://github.com/mwaskom/seaborn-data/blob/master/flights.csv``
+- The dataset that I will be breaking down and exploring for this project is of flight information from 1949 - 1960
+- This dataset includes...
+    - 145 rows
+    - 3 columns
+    - The column information include (Year) (Month) (Number of Passengers)
+
+
+# Project Start
+- Create the Notebook using VS Code explorer
+    - Create a new file ``colenollette_eda.ipynb`` 
+- Verify Notebook is in the Open Editor
+- Now begin project by creating a Markdown cell with all needed information (Name, date, author, etc)
+
