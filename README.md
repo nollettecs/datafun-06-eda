@@ -26,12 +26,12 @@
     - Seaborn
 
 # Data Description
-- GitHub URL ``https://github.com/mwaskom/seaborn-data/blob/master/flights.csv``
-- The dataset that I will be breaking down and exploring for this project is of flight information from 1949 - 1960
+- GitHub URL ``https://github.com/mwaskom/seaborn-data/blob/master/healthexp.csv``
+- The dataset that I will be breaking down and exploring for this project is of Health Expense information from multiple countries from 1970 - 2020
 - This dataset includes...
-    - 145 rows
-    - 3 columns
-    - The column information include (Year) (Month) (Number of Passengers)
+    - 275 rows
+    - 4 columns
+    - The column information include (Year) (Country) (Spending USD) (Life Experctancy)
 
 
 # Project Start
